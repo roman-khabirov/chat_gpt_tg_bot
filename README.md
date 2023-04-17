@@ -1,2 +1,2 @@
 # chat_gpt_tg_bot
-Telegram bot with chat GPT
+Telegram bot with chat GPT-4
